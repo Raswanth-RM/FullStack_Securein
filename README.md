@@ -102,6 +102,38 @@ cd FullStack_Securein
 
 
 ---
+## Output
+1. Initially, when there are no records present:
+   
+![No_Records](https://github.com/user-attachments/assets/2133a907-85c5-4870-9c74-a7767fefd612)
+
+2. DialogBox to Add/Edit record (with validation):
+   
+![DialogBox](https://github.com/user-attachments/assets/90e490b4-3b10-4c50-8b0b-33f7d180a2e9)
+
+3. Added two record:
+
+![Adding_Records](https://github.com/user-attachments/assets/60cdb286-c6c2-405b-9231-a6a4db6175f3)
+
+4. Added more records (Table sorting and filtering options are available):
+
+![More_Records](https://github.com/user-attachments/assets/04b71769-8502-444d-85c2-39d8c5417b30)
+
+5.Edited the first record:
+
+![Edited](https://github.com/user-attachments/assets/09d8c83a-641b-406a-8ecd-bea339d53f2e)
+
+6. Delete confirmation Dialogbox:
+
+![Deletion](https://github.com/user-attachments/assets/29876abd-d516-4b5e-838e-1103ec53ab3d)
+
+7. Deleted the first reecord:
+
+![AfterDeletion](https://github.com/user-attachments/assets/706d9ae4-e71b-425b-85c5-ebefee61a113)
+
+
+---
+
 
 ## Notes
 - The backend uses **TinyDB** for lightweight storage, making it easy to manage data without needing a full database setup.
